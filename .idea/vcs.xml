@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/autentification-microservice" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/base-microservice" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/chat-microservice" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/comment_rating-microservice" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/skills-microservice" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/user-microservice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
